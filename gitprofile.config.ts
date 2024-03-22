@@ -189,12 +189,11 @@ const CONFIG = {
   },
 
   // Optional Footer. Supports plain text or HTML.
-  footer: `Made with <a 
-      class="text-primary" href="https://github.com/arifszn/gitprofile"
+  footer: `Copyright © 2023 <a 
+      class="text-primary" href="https://github.com/Shubham937Raval"
       target="_blank"
       rel="noreferrer"
-    >GitProfile</a> and ❤️`,
-
+    >Shubham Raval</a>`,
   enablePWA: true,
 };
 
