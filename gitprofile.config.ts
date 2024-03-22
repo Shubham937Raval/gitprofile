@@ -53,26 +53,25 @@ const CONFIG = {
     phone: '',
     email: 'shubhamkraval@gmail.com',
   },
-  resume: {
+    resume: {
     fileUrl:
-      '', // Empty fileUrl will hide the `Download Resume` button.
+      'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
-    skills: [
-    'C', 
-    'C++, 
-    'Python',
+  skills: [
+    'PHP',
+    'Laravel',
     'JavaScript',
-    'Java',
-    'MySQL',
-    'PostgreSQL',
-    'MongoDB',
-    'CSS',
-    'HTML',
     'React.js',
     'Node.js',
+    'Nest.js',
+    'MySQL',
+    'PostgreSQL',
     'Git',
-    'GitHub',
-    'Spring Boot',
+    'Docker',
+    'PHPUnit',
+    'CSS',
+    'Antd',
+    'Tailwind',
   ],
   experiences: [
     {
