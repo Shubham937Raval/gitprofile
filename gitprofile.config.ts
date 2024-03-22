@@ -56,24 +56,23 @@ const CONFIG = {
     description: '',
     imageURL: '',
   },
-  social: {
-    linkedin: 'ariful-alam',
-    twitter: 'arif_szn',
-    mastodon: 'arifszn@mastodon.social',
-    researchGate: '',
-    facebook: '',
-    instagram: '',
-    youtube: '', // example: 'pewdiepie'
+   social: {
+    linkedin: 'Shubham Raval',
+    twitter: '@shubham_raval_',
+    mastodon: '',
+    facebook: 'Shubham Raval',
+    instagram: 'shubhamraval2002',
     dribbble: '',
     behance: '',
-    medium: 'arifszn',
-    dev: 'arifszn',
-    stackoverflow: '', // example: '1/jeff-atwood'
+    medium: '',
+    dev: '',
+    stackoverflow: '',
+    format: '',
     skype: '',
     telegram: '',
-    website: 'https://www.arifszn.com',
+    website: '',
     phone: '',
-    email: 'arifulalamszn@gmail.com',
+    email: 'shubhamkraval@gmail.com',
   },
   resume: {
     fileUrl:
