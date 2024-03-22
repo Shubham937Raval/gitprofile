@@ -92,7 +92,7 @@ const CONFIG = {
       institution: 'Dharmsinh Desai University',
       degree: 'B.Tech in Computer Engineering',
       from: '2019',
-      to: '2020',
+      to: '2024',
     }
   ],
   publications: [],
