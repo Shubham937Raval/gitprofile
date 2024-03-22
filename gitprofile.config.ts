@@ -61,21 +61,22 @@ const CONFIG = {
     fileUrl:
       '', // Empty fileUrl will hide the `Download Resume` button.
   },
-  skills: [
-    'PHP',
-    'Laravel',
+    skills: [
+    'C', 
+    'C++'
+    'Python',
     'JavaScript',
-    'React.js',
-    'Node.js',
-    'Nest.js',
+    'Java',
     'MySQL',
     'PostgreSQL',
-    'Git',
-    'Docker',
-    'PHPUnit',
+    'MongoDB',
     'CSS',
-    'Antd',
-    'Tailwind',
+    'HTML',
+    'React.js',
+    'Node.js',
+    'Git',
+    'GitHub',
+    'Spring Boot',
   ],
   experiences: [
     {
