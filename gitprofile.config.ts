@@ -63,7 +63,7 @@ const CONFIG = {
   },
     skills: [
     'C', 
-    'C++'
+    'C++, 
     'Python',
     'JavaScript',
     'Java',
