@@ -36,7 +36,7 @@ const CONFIG = {
     imageURL: '',
   },
    social: {
-    linkedin: 'Shubham Raval',
+    linkedin: 'shubham11r',
     twitter: '@shubham_raval_',
     mastodon: '',
     facebook: 'Shubham Raval',
